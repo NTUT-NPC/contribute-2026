@@ -4,5 +4,7 @@
 
 ---
 - [kaie-kaie](https://github.com/kaie-kaie) - 北科大, 2026
+- [suyuming](https://github.com/suyuming373) - CS, Year 1
+- [cynthia](https://github.com/ucynthia95-afk) - ecss, Year 1
 - [Bradly](https://github.com/bradly0cjw) - Dept. of Computer Science and Information Engineering, Year 4
 - [Yan Yu Lin](https://github.com/yan-yu-lin) - Electronics Department, Year 4
